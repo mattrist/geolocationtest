@@ -49,11 +49,11 @@
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1508181214000,
-            "changeTime": 1508181214000,
+            "size": 238,
+            "modifiedTime": 1508180919000,
+            "changeTime": 1508180919000,
             "isWorkspace": false,
-            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
         }
     ],
     [
@@ -298,15 +298,15 @@
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1508181119000,
             "changeTime": 1508181119000,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
         }
     ],
     [
@@ -504,14 +504,14 @@
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1508180579000,
+            "changeTime": 1508180579000,
+            "contentHash": "5f850e7f50fd1b0e3ea31f5dee739db02f882336",
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1508181361000,
-            "changeTime": 1508181361000,
-            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae"
+            "state": "u"
         }
     ],
     [
@@ -543,14 +543,14 @@
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1508180592000,
+            "changeTime": 1508180592000,
+            "contentHash": "afce52d6e50a4a9c59af1a10144aa928173f6096",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1508181389000,
-            "changeTime": 1508181389000,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -842,14 +842,14 @@
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1508180919000,
             "changeTime": 1508180919000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -859,36 +859,36 @@
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 331,
-            "modifiedTime": 1508181425000,
-            "changeTime": 1508181425000,
-            "contentHash": "9beec1ee9b220486fe3461f1591750189bfc9ba4"
+            "size": 260,
+            "modifiedTime": 1508181013000,
+            "changeTime": 1508181013000,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
         }
     ],
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1508180919000,
             "changeTime": 1508180919000,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
         }
     ],
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1508181105000,
             "changeTime": 1508181105000,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
         }
     ],
     [
@@ -898,75 +898,36 @@
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 833,
-            "modifiedTime": 1508181449000,
-            "changeTime": 1508181449000,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
+            "size": 379,
+            "modifiedTime": 1508181025000,
+            "changeTime": 1508181025000,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
         }
     ],
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1508180919000,
             "changeTime": 1508180919000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1508180919000,
             "changeTime": 1508180919000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1508181214000,
-            "changeTime": 1508181214000,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1508181263000,
-            "changeTime": 1508181263000,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mrist/Desktop/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1508181214000,
-            "changeTime": 1508181214000,
-            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
